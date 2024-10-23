@@ -3,6 +3,7 @@
 **Options Vault** is a decentralized options trading vault built on the Solana blockchain. It allows users to deposit assets (e.g., SOL, USDC) into the vault, which then automatically executes predefined options trading strategies to generate yield. The vault also supports leveraged positions, time-locked staking rewards, and fee-based withdrawals.
 
 The smart contract is written using the Anchor framework, and the core functionality includes depositing, withdrawing, staking, borrowing, and strategy execution with automated options trading strategies like selling covered calls or cash-secured puts.
+This project was developed in Solana Playground 
 
 ## Features
 
